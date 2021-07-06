@@ -14,7 +14,8 @@ body{
 .helf{
     width: 50%;
     padding-left: 30px;
-    margin-bottom: 150px;
+    margin-top: 100px;
+    margin-bottom: 170px;
 }
 
 h1{
@@ -43,7 +44,7 @@ h1{
 
 .section-3{
     margin: 0 100px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 .she3-ad{
@@ -70,7 +71,7 @@ h1{
 /* section-4 */
 
 .section-4{
-    margin-bottom: 300px;
+    margin-bottom: 200px;
 }
 
 .s4-main{
