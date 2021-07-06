@@ -1,0 +1,67 @@
+body{
+    font-family: 'Staatliches', cursive;
+    margin: 10px;
+}
+
+.c-orange{
+    color: orange;
+}
+
+.section-1{
+    display: flex;
+}
+
+.helf{
+    width: 50%;
+    padding-left: 30px;
+    margin-bottom: 150px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.ing-s1{
+    width: 70%;
+}
+
+.btn-1{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.section-2{
+    display: flex;
+    background-image: url(images/shapes/bg-2.png);
+    background-repeat: no-repeat;
+}
+
+.section-3{
+    margin: 0 100px;
+    margin-bottom: 100px;
+}
+
+.she3-ad{
+    text-align: center;
+}
+.s3-menu{
+    display: flex;
+    width: 100%;
+    padding-left: 30px;
+}
+
+.menu-1, .menu-2, .menu-3{
+    margin: 25px;
+    padding: 30px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 30px;
+}
+
+.menu-img{
+    width: 100%;
+    border-radius: 30px;
+}
