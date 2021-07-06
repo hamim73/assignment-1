@@ -38,6 +38,7 @@ h1{
     display: flex;
     background-image: url(images/shapes/bg-2.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .section-3{
